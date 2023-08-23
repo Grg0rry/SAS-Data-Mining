@@ -1,4 +1,4 @@
-# Data Mining Task done using SAS and R
+# Data Mining on Shoe Dataset using SAS and R
 
 ## Background
 This is for the assignment of analytics engineering (IST2034), where we are tasked to create perform data cleaning and generate insights using the SAS programming and R.
